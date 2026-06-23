@@ -13,9 +13,9 @@ Write and polish PSC manuscripts in the style of Nature Energy, Nature Communica
 
 ## Why this skill / 为什么需要这个技能
 
-This skill was **extracted from close reading of 10 recent high-impact PSC papers** published in Nature Energy, Science, Advanced Materials, ACS Energy Letters, and Nature Communications. It captures the specific syntactic patterns, rhetorical moves, and domain vocabulary that distinguish top-tier perovskite manuscripts from generic academic writing.
+This skill was **extracted from extensive close reading of recent high-impact PSC papers** published in Nature Energy, Science, Advanced Materials, ACS Energy Letters, and Nature Communications. It captures the specific syntactic patterns, rhetorical moves, and domain vocabulary that distinguish top-tier perovskite manuscripts from generic academic writing.
 
-本技能**从精读 10 篇近期发表于 Nature Energy、Science、Advanced Materials、ACS Energy Letters 和 Nature Communications 的高影响力钙钛矿论文**中提炼而来，捕捉了顶刊论文特有的句法模式、修辞策略和专业词汇。
+本技能**从精读大量近期发表于 Nature Energy、Science、Advanced Materials、ACS Energy Letters 和 Nature Communications 的高影响力钙钛矿论文**中提炼而来，捕捉了顶刊论文特有的句法模式、修辞策略和专业词汇。
 
 Without this skill, AI tools produce grammatically correct but stylistically generic text. With it, the output matches the tone, structure, and conventions that reviewers at top journals expect.
 
