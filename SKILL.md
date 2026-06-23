@@ -7,7 +7,7 @@ description_zh: 以Nature/Science/Advanced Materials的语言风格撰写和润�
 
 # Top-Tier Perovskite Paper Writing
 
-Write perovskite solar cell (PSC) research manuscripts in the professional style of Nature Energy, Nature Communications, Science, ACS Energy Letters, and Advanced Materials. Extracted from close reading of 10 recent high-impact PSC papers.
+Write perovskite solar cell (PSC) research manuscripts in the professional style of Nature Energy, Nature Communications, Science, ACS Energy Letters, and Advanced Materials. Extracted from extensive close reading of recent high-impact PSC papers.
 
 ## Core Writing Principles
 
