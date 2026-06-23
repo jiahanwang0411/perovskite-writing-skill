@@ -11,6 +11,28 @@ Write and polish PSC manuscripts in the style of Nature Energy, Nature Communica
 
 ---
 
+## Why this skill / 为什么需要这个技能
+
+This skill was **extracted from close reading of 10 recent high-impact PSC papers** published in Nature Energy, Science, Advanced Materials, ACS Energy Letters, and Nature Communications. It captures the specific syntactic patterns, rhetorical moves, and domain vocabulary that distinguish top-tier perovskite manuscripts from generic academic writing.
+
+本技能**从精读 10 篇近期发表于 Nature Energy、Science、Advanced Materials、ACS Energy Letters 和 Nature Communications 的高影响力钙钛矿论文**中提炼而来，捕捉了顶刊论文特有的句法模式、修辞策略和专业词汇。
+
+Without this skill, AI tools produce grammatically correct but stylistically generic text. With it, the output matches the tone, structure, and conventions that reviewers at top journals expect.
+
+没有这个技能，AI 工具只能产出语法正确但风格平庸的文本。有了它，输出将匹配顶刊审稿人所期望的语气、结构和学术规范。
+
+### Before vs. After / 对比示例
+
+| Section / 章节 | Generic AI output / 通用 AI 输出 | With this skill / 使用本技能后 |
+|---|---|---|
+| **Abstract opening** | "Perovskite solar cells are promising for renewable energy." | "Metal halide perovskite solar cells combine high power density with low-cost manufacturing, but durability under repeated extreme temperature cycling remains insufficiently understood." |
+| **Gap statement** | "However, stability is still a problem." | "Despite progress in efficiency, the long-term operational stability under real-world outdoor conditions remains underexplored, representing a significant knowledge gap for commercialization." |
+| **Results** | "The efficiency improved to 27%." | "The champion device achieved a PCE of 27.2% (certified as 26.9%, NREL), while the control retained only 24.1%, corresponding to a relative improvement of 12.9%." |
+| **Mechanism** | "This is because the interface is better." | "We attribute the enhanced performance to the passivation of undercoordinated Pb²⁺ sites by the SAM monolayer, which suppresses non-radiative recombination and thereby facilitates hole extraction." |
+| **Conclusion** | "In conclusion, we made a good solar cell." | "In summary, we demonstrate that dynamic regulation using photoswitchable isomeric compounds marks an advancement towards the practical application of perovskite PVs in real-world scenarios." |
+
+---
+
 ## What it does / 功能介绍
 
 This skill teaches AI agents to write perovskite solar cell papers following 10 core principles extracted from close reading of high-impact PSC publications:
